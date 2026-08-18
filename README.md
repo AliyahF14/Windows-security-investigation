@@ -1,5 +1,15 @@
 # Windows Authentication & Security Event Investigation
 
+## Project Highlights
+
+- Investigated Windows Security Event Logs using Event Viewer
+- Analyzed Windows Event IDs 4624, 4625, 4648, 4672, 4688, 4720, and 4732
+- Performed a controlled failed-authentication test
+- Investigated Logon Type, process, failure reason, and source address
+- Distinguished benign Windows activity from potentially suspicious behavior
+- Documented findings using a SOC-style investigation workflow
+- Created sanitized evidence screenshots and a professional incident report
+
 ## Project Overview
 
 This project demonstrates a hands-on investigation of Windows Security Event Logs using **Windows Event Viewer**.
